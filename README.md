@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SeanAnorico
 - 👀 I’m interested in developing my programming skills
 - 🌱 I’m currently learning VB.net, WAMP, AppDev
+- *****************************************************
 
 
 <!---
